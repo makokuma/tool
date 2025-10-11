@@ -1,7 +1,7 @@
 #!/bin/sh
 ##This script is download MSM analysis data from http://database.rish.kyoto-u.ac.jp/arch/jmadata/
 
-YYYY=2011
+YYYY=2024
 DIR="${YYYY}"
 MAX_JOBS=4
 JOB_COUNT=0
